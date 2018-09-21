@@ -8,7 +8,7 @@ To get started, you'll need to create a [GitHub](https://github.com/) repository
 
 ### Setup
 
-01. Login to your [GitHub](https://github.com/) account and create a new repository named ```problem-set-1```.
+01. Login to your [GitHub](https://github.com/) account and create a new repository named ```problem-set-2```.
 02. In GitBash, navigate to your ```APCSA``` folder.
 03. Clone my skeleton repository from [GitHub](https://github.com/). This will make a copy of my repository and store it locally.
 ```
