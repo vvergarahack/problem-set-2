@@ -11,7 +11,6 @@
 public class ProblemSet2 {
 	
 	/**
-	 * 
 	 * You need not modify the main method.
 	 */
 	
