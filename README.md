@@ -44,6 +44,10 @@ You should now see a ```Project``` in the ```Package Explorer``` in Eclipse.
 16. Expand the ```Project``` folder. You should see the ```JRE System Library``` folder, as well as the ```src``` folder.
 17. Expand the src folder. You should see a single source file named ```ProblemSet2.java```. Double-click to open it.
 
+If you see the following starter code, then you've correctly cloned and setup your project.
+
+![problem set 2 skeleton code screenshot](https://www.ucvts.tec.nj.us/cms/lib/NJ03001805/Centricity/domain/760/apcsa-images/pset2-skeleton.png)
+
 ## Exercises
 
 Problem Set 2 contains 5 exercises, each of which will be written in separate methods. The ```main``` method has already been written for you. You do not need to modify it, except to uncomment lines of code to test your solutions (more on this later).
